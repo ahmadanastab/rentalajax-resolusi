@@ -1,0 +1,4 @@
+rentalajax-resolusi
+-membuat app rental mobil dengan codeigniter dan ajax
+-sebuah aplikasi web untuk memesan mobil
+-membuat forum diskusi
